@@ -2,7 +2,12 @@ body {
 	background-color: #858179;
 }
 h1 {
-
+	background-color: #c4bdaf;
+  	box-shadow: 3px 3px 3px 3px #524d44;
+  	padding: 15px 10px 15px 10px;
+  	text-decoration: underline;
+  	text-align: center;
+  	margin: 20px 250px;
 }
 
 p {
