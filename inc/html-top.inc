@@ -6,4 +6,5 @@
       <title>Dimitar Dobrev</title>
 
       <link rel="stylesheet" href="css/styles.css" >
+      <link href="https://fonts.googleapis.com/css?family=Kosugi+Maru|Roboto+Condensed" rel="stylesheet">
    </head>
